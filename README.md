@@ -1,6 +1,6 @@
 # 📦 LIVRA-CAM — Système de Gestion & Suivi Logistique avec QR Code Dynamique
 
-> **Conçu et développé par [Moumbagna Nchare Ibrahim Soudess](https://github.com/Ibrah656im)**  
+> **Conçu et développé par [Moumbagna Nchare Ibrahim Soudess](https://github.com/moumbagnanchareibrahimsoudess-design)**  
 > *Étudiant en Informatique à l'Université de Yaoundé 1 | Passionné par la Cybersécurité et l'Intelligence Artificielle*
 
 ---
